@@ -1,0 +1,78 @@
+baseURL: "https://junhyukhan.github.io"
+title: Junhyukhan
+paginate: 5
+theme: PaperMod
+# https://github.com/adityatelange/hugo-PaperMod/wiki/Installation
+
+languages:
+  en:
+    languageName: English
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: Posts
+          url: posts
+          weight: 5
+
+params:
+  description: "Junhyukhan"
+  author: Jun
+  defaultTheme: auto
+  ShowReadingTime: true
+  disableSpecial1stPost: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+  ShowToc: true
+  # TocOpen: true
+  comments: false
+
+  homeInfoParams:
+    Title: Junhyukhan
+    Content: >
+      👋 Welcome to my website.
+
+
+      > [about me](./about-me) | [posts](./posts) | [read later](https://junhyukhan.notion.site/6520d3529cbe47868c46db25718589c2?v=39100c97daba49c5addb3eee4ca969cf)
+
+  assets:
+    disableHLJS: true
+  #     favicon: "<link / abs url>"
+  #     favicon16x16: "<link / abs url>"
+  #     favicon32x32: "<link / abs url>"
+  #     apple_touch_icon: "<link / abs url>"
+  #     safari_pinned_tab: "<link / abs url>"
+
+  # cover:
+  #     hidden: true # hide everywhere but not in structured data
+  #     hiddenInList: true # hide on list pages and home
+  #     hiddenInSingle: true # hide on single page
+
+  fuseOpts:
+      isCaseSensitive: false
+      shouldSort: true
+      location: 0
+      distance: 1000
+      threshold: 0.4
+      minMatchCharLength: 0
+      keys: ["title", "permalink", "summary", "content"]
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    codeFences: true
+    guessSyntax: true
+    lineNos: true
+    style: friendly
