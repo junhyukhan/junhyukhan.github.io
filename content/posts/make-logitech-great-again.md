@@ -1,7 +1,7 @@
 +++
 title = 'Make Logitech Great Again'
 date = 2024-02-20T16:57:16+09:00
-draft = true
+draft = false
 +++
 
 logitech mice and keyboards are great. The build quality, the design, the feel, the (insane) battery life are hard not to love. You can even reprogram the buttons found on top of the mouse to do 'basically' whatever you want.  
@@ -15,3 +15,4 @@ This is quite cumbersome. And to make things way harder, logitech doesn't allow 
 
 ### The solution
 [input-switcher repo](https://github.com/marcelhoffs/input-switcher)
+Taking insight from the above repository, I was able to 
