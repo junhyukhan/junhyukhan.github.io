@@ -2,7 +2,7 @@
 title = 'Toss Daily Log 1'
 date = 2024-12-17T22:50:56+09:00
 draft = false
-tags = ['recruit']
+tags = ['event']
 +++
 
 ### 생각의 시작: 변화와 과정  

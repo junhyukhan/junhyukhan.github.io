@@ -2,6 +2,7 @@
 title = 'Karabiner Switch Input With Right Command Button'
 date = 2023-09-18T09:01:28+09:00
 draft = false
+tags = ['productivity']
 +++
 
 ## Switch input sources with the right_command key

@@ -2,6 +2,7 @@
 title = 'Git Commit Rule'
 date = 2024-02-16T18:24:16+09:00
 draft = false
+tags = ['productivity']
 +++
 
 This post will be an ever-evolving list of guidelines for personal projects to make my life easier. This rule will not be necessary for everyone.

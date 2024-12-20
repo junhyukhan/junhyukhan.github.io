@@ -2,7 +2,7 @@
 title = 'Toss Daily Log 3'
 date = 2024-12-19T23:17:23+09:00
 draft = false
-tags = ['recruit']
+tags = ['event']
 +++
 
 

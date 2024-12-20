@@ -2,9 +2,12 @@
 title = 'Leetcode Submission Saver'
 date = 2024-09-17T05:49:06+09:00
 draft = false
+tags = ['development']
 +++
 
 # Building the LeetCode Submission Saver Chrome Extension
+
+the git repo is [here](https://github.com/junhyukhan/leetcode-submission-saver)
 
 As I progressed through my coding journey on LeetCode, I realized it was difficult to keep track of my progress and review the code I had written over time. This led me to start a project that would allow me to automatically commit successful LeetCode submissions to a GitHub repository, where I could easily look back at my code and track improvements.
 

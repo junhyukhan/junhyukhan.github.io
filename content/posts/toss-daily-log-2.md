@@ -2,7 +2,7 @@
 title = 'Toss Daily Log 2'
 date = 2024-12-18T22:39:52+09:00
 draft = false
-tags = ['recruit']
+tags = ['event']
 +++
 
 ## 프로젝트의 버그들
