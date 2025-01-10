@@ -33,13 +33,16 @@ git clone https://username@github.com/username/repository.git
 {{< /collapse >}}
 
 ### Tags to be used
+I'll try to use the tags below, but as you can see from my commit history, it's all over the place... This list will be an ever changing list of tags that should be used.
 ``` shell
 # Tag: (lowercase) short description of what you did
-Init: start of project, skeleton code, boilerplate code
-Feat: added a new feature
-Doc: README.md or any other documentation related to the repository
-Fix: fixed a bug
-Refactor: refactored code
-Test: added tests
-Minor: some minor changes
+init: start of project, skeleton code, boilerplate code
+create: created a file
+update: updated a file
+feat: added a new feature
+doc: README.md or any other documentation related to the repository
+fix: fixed a bug
+refactor: refactored code
+test: added tests
+minor: some minor changes
 ```
