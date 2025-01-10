@@ -8,6 +8,8 @@ I set up [coder](https://github.com/coder/coder) on my mac at home so that I can
 
 The setup was actually very simple and required almost no tweaking for a minimal dockerized dev environment.
 
+*The experience is surprisingly great which makes me want to get a 13 inch m4 ipad pro... having a function row with an esc key sounds amazing...*
+
 ### host (macbook at home)
 ```
 # First, install Coder
