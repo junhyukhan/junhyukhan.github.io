@@ -16,4 +16,6 @@ This is quite cumbersome. And to make things way harder, logitech doesn't allow 
 
 ### The solution
 [input-switcher repo](https://github.com/marcelhoffs/input-switcher)
-Taking insight from the above repository, I was able to 
+Taking insight from the above repository, I was able to make the keyboard and mouse to switch pairing to the next device through a command line script, which I then mapped to a button on my mouse.
+
+With a click of a button, I was able to simultaneously switch the connected device for both my mouse and keyboard. All this without using logitech's proprietary solution, logitech flow which was pretty buggy.
